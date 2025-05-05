@@ -135,6 +135,3 @@ More advanced NLP techniques (e.g., aspect-based sentiment analysis)
 Integration with more data sources (e.g., Twitter API, Reddit)
 Machine learning models for sentiment classification
 Interactive dashboards for visualization
-
-License
-This project is available under the MIT License.
